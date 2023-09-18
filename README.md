@@ -48,7 +48,7 @@ You can use this tool for:
 
 **Windows**
 ```
-Just double click on "sms.exe"
+Just double click on "SMTP2SMS.exe"
 ```
 
 ---
